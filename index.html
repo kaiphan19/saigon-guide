@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <title>Travel to Saigon</title>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                       
+                    },
+                    backgroundImage: {
+                        "welcome": "url('https://media.canva.com/v2/image-resize/format:PNG/height:817/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FWdMzc%2FMAGR6pWdMzc%2F1%2Fp.png/watermark:F/width:1600?csig=AAAAAAAAAAAAAAAAAAAAAPPizq2ritZfXZsNkaLwm2QEIZK0VeUOtvDX6HeWmGnk&exp=1728235543&osig=AAAAAAAAAAAAAAAAAAAAADQrEBBKbHmj1_Vha8m-HebMvAYIZhLzCAUmbPVTPFCs&signer=media-rpc&x-canva-quality=screen_2x')",
+                        "slide-2": "url('https://media.canva.com/v2/image-resize/format:PNG/height:1081/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FcMgWc%2FMAGSoXcMgWc%2F1%2Fp.png/watermark:F/width:1595?csig=AAAAAAAAAAAAAAAAAAAAAEzefkpgUryCGGT77S5X0dtATrSQ1OvLNPGNLu-64FDu&exp=1728237995&osig=AAAAAAAAAAAAAAAAAAAAAMw5uZV2aymLk5CDjXjYEY6maL3U6mJafnHDpt7hMDM0&signer=media-rpc&x-canva-quality=screen_2x')"
+                    },
+                    fontFamily: {
+                        "welcome": ["Caveat", "cursive"],
+                        
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="w-dvw h-dvh flex flex-col overflow-hidden">
+    <main class="w-full h-full overflow-hidden">
+        <div id="slide-1" class="w-dvw h-dvh bg-center bg-no-repeat bg-welcome bg-gray-700 bg-blend-multiply overflow-hidden">
+            <div class="h-full flex flex-col justify-around items-center text-center py-10">
+                <h1 class="mb-4 text-6xl font-extrabold font-welcome tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Travel to Saigon</h1>
+                
+                <div class="w-[90%] flex flex-col justify-center gap-5">
+                    <a href="/items.html?data=locations.json" class="inline-flex justify-center gap-2 bg-gray-800/75 hover:text-gray-900 items-center py-3 px-5 sm:ms-4 text-base font-medium text-center text-white rounded-lg border border-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400">
+                        <span class="material-symbols-outlined">
+                            apartment
+                        </span>
+                        <div>
+                            City
+                        </div>
+                    </a>
+ 
+                    <a href="/items.html?data=food.json" class="inline-flex justify-center gap-2 bg-gray-800/75 hover:text-gray-900 items-center py-3 px-5 sm:ms-4 text-base font-medium text-center text-white rounded-lg border border-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400">
+                        <span class="material-symbols-outlined">
+                            lunch_dining
+                        </span>
+                        <div>
+                            Food
+                        </div>
+                    </a>
+
+                    <a href="/tour.html" class="inline-flex justify-center gap-2 bg-gray-800/75 hover:text-gray-900 items-center py-3 px-5 sm:ms-4 text-base font-medium text-center text-white rounded-lg border border-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400">
+                        <span class="material-symbols-outlined">
+                            two_wheeler
+                        </span>
+                        <div>
+                            Tour
+                        </div>
+                    </a>
+
+                    <a href="/about-me.html" class="inline-flex justify-center gap-2 bg-gray-800/75 hover:text-gray-900 items-center py-3 px-5 sm:ms-4 text-base font-medium text-center text-white rounded-lg border border-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400">
+                        <span class="material-symbols-outlined">
+                            info
+                        </span>
+                        <div>
+                            About me
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
