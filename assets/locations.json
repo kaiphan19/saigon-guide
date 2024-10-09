@@ -3,71 +3,71 @@
     "items": [
         {
             "name": "Nhà thờ Đức Bà",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:142/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2F_1Agw%2FMAGSJ__1Agw%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAADhfmOtyG8g4r0pgL0Xl4ltGj4FYDWvCd0XSSe25gOr8&exp=1728318471&osig=AAAAAAAAAAAAAAAAAAAAADAmeFm8fNlltmCtaxGYE-KkanMJEUn2AYnt5-EW9vkm&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/nha-tho-duc-ba.jpg"
         },
         {
             "name": "Bưu điện thành phố",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:132/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2F0c2qk%2FMAGSJ20c2qk%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAADpJoApcUlwVi1uQEwlvv4Y8gyQwiaF3bbErSIFwWGuO&exp=1728319158&osig=AAAAAAAAAAAAAAAAAAAAAHnqsqan7V3vWdowlghrgcGMEIWrB6fDsbmJAxf8h-5X&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/post-office.jpg"
         },
         {
             "name": "Dinh Độc Lập",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:159/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FllE8w%2FMAGSJ7llE8w%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAAzni03LmRJ0lR5fTRps9iGN-m9N7VjpChixRr-2VoV0&exp=1728319749&osig=AAAAAAAAAAAAAAAAAAAAAGeM0Z0YLW0XAJmRwOBK_FM_IwUHeAjB_qN0jEg5t_oQ&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/dinh-doc-lap.jpg"
         },
         {
             "name": "Chợ Bến Thành",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2Fa1qNU%2FMAGSMla1qNU%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAPKRTDf0br9UQ_bLUgnpHDaB6cS7GjeF7Ka8tKm7ayW6&exp=1728319090&osig=AAAAAAAAAAAAAAAAAAAAAJPzMAtucfIolJKNHHRkg7Ugl7U_8wk0NECoPmT3oE63&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/ben-thanh-market.jpg"
         },
         {
             "name": "Bitexco",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:133/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FgXWHo%2FMAGSMngXWHo%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAIasgnAccuiM700_9uuxKWRNGJcpBxx0teXmEvekIHpi&exp=1728319444&osig=AAAAAAAAAAAAAAAAAAAAAPGMs7uGyB7HO7Btk8_KoZk_jzVBVucqjwrEnLkK33Ch&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/bitexco.jpg"
         },
         {
             "name": "Landmark 81",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FQfnjE%2FMAGSJ5QfnjE%2F1%2Fp.png/watermark:F/width:159?csig=AAAAAAAAAAAAAAAAAAAAALc03iLm48Wd1Lo4Hkwdy9pL47PA3sP9DV-BNIIIqzIe&exp=1728316744&osig=AAAAAAAAAAAAAAAAAAAAAK-rLaU7lgpeOPykI0B5apSCwn_IOx3HYsH5oilkMK5b&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/landmark81.jpg"
         },
         {
             "name": "Nhà hát Thành phố",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:124/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2F6eZIc%2FMAGSMh6eZIc%2F1%2Fp.png/watermark:F/width:199?csig=AAAAAAAAAAAAAAAAAAAAAH_-hSL5mqBMvmVp3CMgViCKSnVMkE615pTRdJ_R2xIM&exp=1728318249&osig=AAAAAAAAAAAAAAAAAAAAALyPiE25C6SCAG7LaCfsOQkiV-SBeKJ1VoTgKVuDovVR&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/opera-house.jpg"
         },
         {
             "name": "Bến Nhà Rồng",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:133/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2F3D_AU%2FMAGSMu3D_AU%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAAYs7AJ2P_-eslzj-RLp2WhsPf4C6X1F3o7t5qs5Dyof&exp=1728317999&osig=AAAAAAAAAAAAAAAAAAAAAPGNblcXaUGvPT9dX1_IncMkRpzoe_T-AH-8f2Md2uJk&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/port.jpg"
         },
         {
             "name": "Hồ Con Rùa",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:120/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2F0DmVk%2FMAGSl60DmVk%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAMOFw7xrYbfGj8p7nty3AO7g17qA6PD8e_rREC26QOh1&exp=1728317441&osig=AAAAAAAAAAAAAAAAAAAAABmdtqqZrNm_8pOFXxHNfZGURt3tfe-Pt4pSMIascV8B&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/ho-con-rua.jpg"
         },
         {
             "name": "Phố đi bộ Nguyễn Huệ",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:127/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FfuB4w%2FMAGSMnfuB4w%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAANBTqGHCqsgvGWEePl315HHI1y1LlaydTMbEBK-nPYzR&exp=1728317164&osig=AAAAAAAAAAAAAAAAAAAAACCTdQ8wQyCwoV4cbHZprtVdjS560wJO1Ttwa8iP6TOh&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/nguyen-hue.jpg"
         },
         {
             "name": "Cafe Tầng",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:159/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FyOAk0%2FMAGSl3yOAk0%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAB2mUWhb5tEr5JoIpT6UWulzAsIwIE6uL9KqP4q7gSPt&exp=1728317069&osig=AAAAAAAAAAAAAAAAAAAAAKkqmx3FNiV1xUApu0DGTBQQmrTf762qtq8QOJWA80xq&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/nguyen-hue-cafe.jpg"
         },
         {
             "name": "Bảo tàng chiến tranh",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:112/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FT99i8%2FMAGSJ9T99i8%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAGRFGGG23pKmNtSJW1bVgGml4GUB74gUZpquRBTOdmDh&exp=1728316659&osig=AAAAAAAAAAAAAAAAAAAAAO8wtON8RTS5PtjSa_mDb_Za1HVWVE_Umeytf6H6WVbm&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/museum.jpg"
         },
         {
             "name": "Saigon Sniper",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:120/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FB92u8%2FMAGSJxB92u8%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAAp6RY4CNeg9u2sZXb85MHfYqUESRt-uuz-p8xclg3G_&exp=1728320103&osig=AAAAAAAAAAAAAAAAAAAAAO-UsYVuJApdXqp0Yj4Xs_lyOnoYpv1QJUcjGXvxvXKS&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/sniper.jpg"
         },
         {
             "name": "Triển lãm Van Gogh",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2F2RAnY%2FMAGSJ12RAnY%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAIrZ8YeWbLIgK--7BAUSQP_kWOQ-cfVFNJvvlG0CKrDC&exp=1728317761&osig=AAAAAAAAAAAAAAAAAAAAAGlZimCoOLOQXCnBaSmCCPszFP3n4rhdXPPP-dq4fLuv&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/van-gogh.jpg"
         },
         {
             "name": "Cầu ánh sao",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:125/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FpjF6k%2FMAGSl5pjF6k%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAF_hbUgrEK9d4IOPTS830Fh0UVQ7Txz4HLzfHgWxVn_s&exp=1728317494&osig=AAAAAAAAAAAAAAAAAAAAAIQcfFsm-1qb5ZailpfKZBnxoLbkn1ss4LbI925oKiAf&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/star-brigde.jpg"
         },
         {
             "name": "The New Playground",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:159/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FWujhw%2FMAGStAWujhw%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAABHCMev5Q5-c6SsjS33HLGjlrbIiu4aw326owA7kduez&exp=1728316914&osig=AAAAAAAAAAAAAAAAAAAAAP7sjLDIZVmsbFKiS0iDLEa-iCqjSBWqHBfURNRulSAu&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/playground.jpg"
         }, 
         {
             "name": "Golden Lotus Spa",
-            "image": "https://media.canva.com/v2/image-resize/format:PNG/height:120/quality:100/uri:s3%3A%2F%2Fmedia-private.canva.com%2FwZHOs%2FMAGSlNwZHOs%2F1%2Fp.png/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAACUoFNvVRBqgpbQMWgXUfN0fSmY_MF3UevTETJxx-EO-&exp=1728318131&osig=AAAAAAAAAAAAAAAAAAAAAG7qxuzbQbDkSd36z42a69ajQaUOWasQBSUc6rD4P4PU&signer=media-rpc&x-canva-quality=thumbnail"
+            "image": "/saigon-guide/assets/locations/spa.jpg"
         }
     ]
 }
